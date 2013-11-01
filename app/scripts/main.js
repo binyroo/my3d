@@ -1,1 +1,5 @@
-console.log('\'Allo \'Allo!');
+'use strict';
+
+window.onload(function() {
+    console.log('\'Allo \'Allo!');
+});
